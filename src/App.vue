@@ -1,6 +1,6 @@
 <template>
 <nav>
-    <router-link class="rl animate__animated animate__fadeInDown" to="/">Главаная</router-link> |
+    <router-link class="rl animate__animated animate__fadeInDown" to="/">Главная</router-link> |
     <router-link class="rl animate__animated animate__fadeInDown animate__delay-1s" to="/projects">Проекты</router-link>
 </nav>
 <router-view />
